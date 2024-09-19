@@ -11,4 +11,4 @@
 9. test_get_books_for_children_get_books_for_children - проверяет, что метод возвращает список книг которые подходят под условие метода.
 10. test_add_book_in_favorites_add_one_book_get_one_item_list - проверяет, что метод добавляет переданную книгу в список favorites.
 11. test_delete_book_from_favorites_delete_book_from_favorites - проверяет, что метод удаляет переданную книгу из списка favorites.
-12. test_get_list_of_favorites_books_get_list_of_favorites_books - проверяет, что метод возвращает список книг добавленных в favorites.
+
